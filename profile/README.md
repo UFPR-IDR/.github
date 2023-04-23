@@ -1,12 +1,7 @@
-## Hi there 👋
+# UFPR - IDR
+Project developed to automatically identify cattle based on the muzzle points.
 
-<!--
+## Code
+In order to follow the conventions for Python code the codes under this organization will use [PEP 8](https://www.python.org/dev/peps/pep-0008/#introduction) as guide. So you must have basic knowledge about how it works before uploading your code.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+In case you don't have enough time to read it, you can read ["The Best of the Best Practices"](https://gist.github.com/sloria/7001839).
